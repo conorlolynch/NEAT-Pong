@@ -19,4 +19,10 @@ Pygame (version 1.9.6 in this project)
 
 ![alt text](Images/pong-gif.gif)
 
+By generation 11 there seems to be a AI capable of playing pong.
 
+### Explaination
+
+Generation 0 is filled with a population of 50 paddles that do not know how to play pong. Paddles which collide with the ball are considered to be successful and are rewarded with a better fitness score once that generation is over. Paddles that fail to bounce the ball back are given a poor fitness score. At the end of a generation the most successful paddles with the highest fitness score are copied into the next generation of paddles and are crossedover with other sucessful paddles. 
+
+After a number of generations the fitness of the entire population continues to improve to the point where the paddles can play pong well and can become unbeatable.
