@@ -17,7 +17,6 @@ Pygame (version 1.9.6 in this project)
 
 ### Demonstration
 
-![temp](https://user-images.githubusercontent.com/42739046/92333739-bf58c480-f07f-11ea-8e7a-d5aeefc28edb.PNG)
-
+![alt text](Images/pong-gif.gif)
 
 
